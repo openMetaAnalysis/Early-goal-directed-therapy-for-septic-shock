@@ -213,5 +213,31 @@
     <bullet type="secondary">Mortality in hospital (used in current meta-analysis)</bullet>
   </outcome>
 </study>
+<!-- start of a new study -->
+<study>
+  <citation year="2015" pmid="000000" trialregistration="na" journal_abbrev="N Engl J Med">ProMISe</citation>
+  <design>Randomized controlled trial</design>
+  <patients total="1260">
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics within 6 hours of presenting to the emergency Department</description>
+    <bullet>Time between hospital arrival and randomization was < 6 hours</bullet>
+    <bullet>Age 65.4 years (mean)</bullet>
+    <bullet>Mean blood pressure 78.1 mmHg (mean)</bullet>
+    <bullet>APACHE II score: 18.4</bullet>
+    <bullet>Lactate 6.9 mmol/L (mean)</bullet>
+  </patients>
+  <intervention>Early goal-directed therapy
+    <bullet>Antibiotic administration: 100% before randomization</bullet>
+    <bullet>Fluid replacement: 2226 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 92.1% (within 6 hours)</bullet>
+  </intervention>
+  <comparison>Usual care
+    <bullet>Antibiotic administration: 100% before randomization</bullet>
+    <bullet>Fluid replacement: 2022 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 50.9% (within 6 hours)</bullet>
+  </comparison>
+  <outcome>
+    <bullet type="primary">Mortality 90 days</bullet>
+  </outcome>
+</study>
 <!-- Leave this bottom line -->
 </included>
