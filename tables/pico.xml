@@ -218,8 +218,8 @@
   <citation year="2015" pmid="25776532" trialregistration="ISRCTN36307479" journal_abbrev="N Engl J Med">ProMISe</citation>
   <design>Randomized controlled trial</design>
   <patients total="1260">
-    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics within 6 hours of presenting to the emergency Department</description>
-    <bullet>Time between hospital arrival and randomization was less than 6 hours</bullet>
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics within 6 hours of presenting to the Emergency Department</description>
+    <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
     <bullet>Age 65.4 years (mean)</bullet>
     <bullet>Mean blood pressure 78.1 mmHg (mean)</bullet>
     <bullet>APACHE II score: 18.4</bullet>
