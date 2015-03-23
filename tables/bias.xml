@@ -90,14 +90,14 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2015" pmid="25776532" nct="ISRCTN36307479" journal_abbrev="N Engl J Med" totalsubjects="0" >ProMISe</citation>
-  <randomization explanation=""></randomization>
-  <allocation explanation=""></allocation>
+  <citation year="2015" pmid="25776532" nct="ISRCTN36307479" journal_abbrev="N Engl J Med" totalsubjects="1260" >ProMISe</citation>
+  <randomization explanation="">Low risk</randomization>
+  <allocation explanation="">Low risk<</allocation>
    <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
-  <blinding_assessment explanation=""></blinding_assessment>
-  <attrition explanation=""></attrition>
-  <selective_reporting explanation=""></selective_reporting>
-  <other_biases explanation=""></other_biases>
+  <blinding_assessment explanation="No statment on blinding, but unlikely to influence the outcome measurement.">Low risk</blinding_assessment>
+  <attrition explanation="">Low risk</attrition>
+  <selective_reporting explanation="">Low risk</selective_reporting>
+  <other_biases explanation="">Low risk</other_biases>
 </study>
 <!-- Leave this bottom line -->
 </included>
