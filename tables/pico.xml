@@ -2,32 +2,6 @@
 <included>
 <!-- start of a new study -->
 <study>
-  <citation year="1992" pmid="1623756" trialregistration="" journal_abbrev="Chest">Tuchschmidt</citation>
-  <design>Randomized controlled trial</design>
-  <patients total="51">
-    <description>septic shock recruited from uncertain clinical sites</description>
-    <bullet>Age 51 years (mean)</bullet>
-    <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
-    <bullet>APACHE II score: 22</bullet>
-    <bullet>Lactate 4.9 mmol/L (mean)</bullet>
-    <bullet>Bacteremia 57%</bullet>
-  </patients>
-  <intervention>Early goal-directed therapy
-    <bullet>Blood transfusion: details not reported</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: details not reported</bullet>
-  </intervention>
-  <comparison>Usual care
-    <bullet>Blood transfusion: details not reported</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: details not reported</bullet>
-  </comparison>
-  <outcome>
-    <bullet type="primary">Mortality at 14 days</bullet>
-  </outcome>
-</study>
-<!-- start of a new study -->
-<study>
   <citation year="2001" pmid="11794169" trialregistration="" journal_abbrev="N Engl J Med">Rivers</citation>
   <design>Randomized controlled trial</design>
   <patients total="263">
@@ -48,31 +22,6 @@
     <bullet>Blood transfusion: 19%</bullet>
     <bullet>Antibiotic administration: 92% over six hours</bullet>
     <bullet>Fluid replacement: 3499 mL over 6 hours (may include pre-randomization)</bullet>
-  </comparison>
-  <outcome>
-    <bullet type="primary">Mortality in hospital</bullet>
-  </outcome>
-</study>
-<!-- start of a new study -->
-<study>
-  <citation year="2006" pmid="17117128" trialregistration="" journal_abbrev="Shock">Lin</citation>
-  <design>Randomized controlled trial</design>
-  <patients total="224">
-    <description>septic shock in the Emergency Department or the Medical Intensive Care Unit</description>
-    <bullet>Age 68 years (mean)</bullet>
-    <bullet>Mean ateral pressure 56 mmHg (mean)</bullet>
-    <bullet>Lactate 7.1 mmol/L (mean)</bullet>
-    <bullet>Bacteremia 13%</bullet>
-  </patients>
-  <intervention>Early goal-directed therapy
-    <bullet>Blood transfusion: 36%</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: 5180 mL during the period of persistent shock</bullet>
-  </intervention>
-  <comparison>Usual care
-    <bullet>Blood transfusion: 37%</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: 5011 mL during the period of persistent shock</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality in hospital</bullet>
