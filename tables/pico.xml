@@ -171,23 +171,49 @@
   <patients total="300">
     <description>hypotension or serum lactate 4 mmol/L or more after 20 mL?kg intravenous fluids rapidly</description>
     <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
-    <bullet>Age 65.4 years (mean)</bullet>
-    <bullet>Mean blood pressure 78.1 mmHg (mean)</bullet>
-    <bullet>APACHE II score: 18.4</bullet>
-    <bullet>Lactate 6.9 mmol/L (mean)</bullet>
+    <bullet>Age 61 years (mean)</bullet>
+    <bullet>Systolic blood pressure 92 mmHg (mean)</bullet>
+    <bullet>APACHE II score: NA</bullet>
+    <bullet>Lactate 3.9 mmol/L (mean)</bullet>
   </patients>
   <intervention>Early goal-directed therapy
     <bullet>Antibiotic administration: median time from arrival in ED was 115 (IQR: 66-170)</bullet>
     <bullet>Fluid replacement: 4300 mL over six hours</bullet>
-    <bullet>Central venous catheterization: 200% (within 6 hours)</bullet>
+    <bullet>Central venous catheterization: 100% (within 6 hours)</bullet>
   </intervention>
-  <comparison>Lactate clearance (measured hourly) and central venous pressure monitoring
+  <comparison>**Lactate clearance (measured hourly) and central venous pressure monitoring**
     <bullet>Antibiotic administration: median time from arrival in ED was 115 (IQR: 62-180)</bullet>
     <bullet>Fluid replacement: 4500 mL over six hours</bullet>
     <bullet>Central venous catheterization: 100% (within 6 hours)</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality in hospital</bullet>
+  </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2012" pmid="22248751" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="41" >Tian</citation>
+  <design>Randomized controlled trial</design>
+  <patients total="41">
+    <description>hypotension or serum lactate 4 mmol/L or more after 20 mL?kg intravenous fluids rapidly</description>
+    <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
+    <bullet>Age 61 years (mean)</bullet>
+    <bullet>Systolic blood pressure 92 mmHg (mean)</bullet>
+    <bullet>APACHE II score: NA</bullet>
+    <bullet>Lactate 3.9 mmol/L (mean)</bullet>
+  </patients>
+  <intervention>Early goal-directed therapy
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: 100%</bullet>
+  </intervention>
+  <comparison>**Lactate clearance (measured hourly) and central venous pressure monitoring**
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: 100%</bullet>
+  </comparison>
+  <outcome>
+    <bullet type="primary">Mortality at 28 days</bullet>
   </outcome>
 </study>
 <!-- Leave this bottom line -->
