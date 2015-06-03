@@ -13,17 +13,6 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2007" pmid="17207356" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="203" >He</citation>
-  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
-  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
-  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
-  <blinding_assessment explanation="Assessment of article in Chinese made by meta-analysis of Gu et al.">Low risk</blinding_assessment>
-  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
-  <selective_reporting explanation="Original protocol not available at a website for trial registration; however, unlikely this affected process for determining survival of subjects.">Low risk</selective_reporting>
-  <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
   <citation year="2007" pmid="18159013" nct="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao" totalsubjects="123" >Chen</citation>
   <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
   <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
@@ -76,6 +65,51 @@
   <attrition explanation="">Low risk</attrition>
   <selective_reporting explanation="">Low risk</selective_reporting>
   <other_biases explanation="">Low risk</other_biases>
+</study>
+<!-- lactate/CVP trials -->
+<!-- start of a new study -->
+<study>
+  <citation year="2010" pmid="20179283" nct="NCT00372502" journal_abbrev="JAMA" totalsubjects="300" >Jones</citation>
+  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
+  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
+  <blinding_assessment explanation="">Low risk</blinding_assessment>
+  <attrition explanation="">Low risk</attrition>
+  <selective_reporting explanation="">Low risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2012" pmid="22248751" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="41" >Tian</citation>
+  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
+  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
+  <blinding_assessment explanation="Assessment of article in Chinese may be compromised.">Low risk</blinding_assessment>
+  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration; however, unlikely this affected process for determining survival of subjects.">Low risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2013" pmid="24119693" nct="" journal_abbrev="Zhonghua Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="57" >Yu</citation>
+  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
+  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
+  <blinding_assessment explanation="Assessment of article in Chinese made by meta-analysis of Zhang et al.">Low risk</blinding_assessment>
+  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration; however, unlikely this affected process for determining survival of subjects.">Low risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2014" pmid="24649525" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="50" >Wang</citation>
+  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
+  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
+  <blinding_assessment explanation="Assessment of article in Chinese made by meta-analysis of Zhang et al.">Low risk</blinding_assessment>
+  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration; however, unlikely this affected process for determining survival of subjects.">Low risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
 </study>
 <!-- Leave this bottom line -->
 </included>
