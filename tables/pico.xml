@@ -29,31 +29,6 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2007" pmid="17207356" trialregistration="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">He</citation>
-  <design>Randomized controlled trial</design>
-  <patients total="203">
-    <description>septic shock</description>
-    <bullet>Age unknown</bullet>
-    <bullet>Mean blood pressure unknown</bullet>
-    <bullet>Lactate unknown</bullet>
-    <bullet>Bacteremia unknown</bullet>
-  </patients>
-  <intervention>Early goal-directed therapy
-    <bullet>Blood transfusion: details not reported</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: details not reported</bullet>
-  </intervention>
-  <comparison>Usual care
-    <bullet>Blood transfusion: details not reported</bullet>
-    <bullet>Antibiotic administration: details not reported</bullet>
-    <bullet>Fluid replacement: details not reported</bullet>
-  </comparison>
-  <outcome>
-  <bullet type="primary">Mortality in hospital</bullet>
-  </outcome>
-</study>
-<!-- start of a new study -->
-<study>
 <citation year="2007" pmid="18159013" trialregistration="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
 <design>Randomized controlled trial</design>
 <patients total="123">
