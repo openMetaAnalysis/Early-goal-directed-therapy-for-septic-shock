@@ -169,8 +169,8 @@
   <citation year="2010" pmid="20179283" nct="NCT00372502" journal_abbrev="JAMA" totalsubjects="300" >Jones</citation>
   <design>Randomized controlled trial</design>
   <patients total="300">
-    <description>hypotension or serum lactate 4 mmol/L or more after 20 mL?kg intravenous fluids rapidly</description>
-    <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
+    <description>hypotension or serum lactate 4 mmol/L or more after 20 mL/kg intravenous fluids rapidly</description>
+    <bullet>Time between hospital arrival and randomization: 122 minutes (median)</bullet>
     <bullet>Age 61 years (mean)</bullet>
     <bullet>Systolic blood pressure 92 mmHg (mean)</bullet>
     <bullet>APACHE II score: NA</bullet>
@@ -195,19 +195,45 @@
   <citation year="2012" pmid="22248751" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="41" >Tian</citation>
   <design>Randomized controlled trial</design>
   <patients total="41">
-    <description>hypotension or serum lactate 4 mmol/L or more after 20 mL?kg intravenous fluids rapidly</description>
-    <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
-    <bullet>Age 61 years (mean)</bullet>
-    <bullet>Systolic blood pressure 92 mmHg (mean)</bullet>
-    <bullet>APACHE II score: NA</bullet>
-    <bullet>Lactate 3.9 mmol/L (mean)</bullet>
+    <description>Septic shock with severe pneumonia</description>
+    <bullet>Time between hospital arrival and randomization: NA</bullet>
+    <bullet>Age NA</bullet>
+    <bullet>Systolic blood pressure NA</bullet>
+    <bullet>APACHE II score: 19</bullet>
+    <bullet>Lactate NA</bullet>
   </patients>
   <intervention>Early goal-directed therapy
     <bullet>Antibiotic administration: NA</bullet>
     <bullet>Fluid replacement: NA</bullet>
     <bullet>Central venous catheterization: 100%</bullet>
   </intervention>
-  <comparison>**Lactate clearance (measured hourly) and central venous pressure monitoring**
+  <comparison>**Lactate clearance (measured at uncertain frequency) and central venous pressure monitoring**
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: 100%</bullet>
+  </comparison>
+  <outcome>
+    <bullet type="primary">Mortality at 28 days</bullet>
+  </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2013" pmid="24119693" nct="" journal_abbrev="Zhonghua Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="57" >Yu</citation>
+  <design>Randomized controlled trial</design>
+  <patients total="57">
+    <description>Severe sepsis or septic shock</description>
+    <bullet>Time between hospital arrival and randomization: NA</bullet>
+    <bullet>Age 60 years (mean)</bullet>
+    <bullet>Systolic blood pressure NA</bullet>
+    <bullet>APACHE II score: 18</bullet>
+    <bullet>Lactate 3.43 mm/L (only reported in lactate group)</bullet>
+  </patients>
+  <intervention>Early goal-directed therapy
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: 100%</bullet>
+  </intervention>
+  <comparison>**Lactate clearance (measured at 3, 6, and 72 hours) and central venous pressure monitoring**
     <bullet>Antibiotic administration: NA</bullet>
     <bullet>Fluid replacement: NA</bullet>
     <bullet>Central venous catheterization: 100%</bullet>
