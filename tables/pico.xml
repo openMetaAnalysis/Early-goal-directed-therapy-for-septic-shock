@@ -152,7 +152,7 @@
   <intervention>Early goal-directed therapy
     <bullet>Antibiotic administration: 100% before randomization</bullet>
     <bullet>Fluid replacement: 2226 mL over six hours</bullet>
-    <bullet>Central venous catheterization: 92.10% (within 6 hours)</bullet>
+    <bullet>Central venous catheterization: 92.1% (within 6 hours)</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Antibiotic administration: 100% before randomization</bullet>
@@ -161,6 +161,33 @@
   </comparison>
   <outcome>
     <bullet type="primary">Mortality at 90 days</bullet>
+  </outcome>
+</study>
+<!-- start of Lactate/CVP trials -->
+<!-- start of a new study -->
+<study>
+  <citation year="2010" pmid="20179283" nct="NCT00372502" journal_abbrev="JAMA" totalsubjects="300" >Jones</citation>
+  <design>Randomized controlled trial</design>
+  <patients total="300">
+    <description>hypotension or serum lactate 4 mmol/L or more after 20 mL?kg intravenous fluids rapidly</description>
+    <bullet>Time between hospital arrival and randomization: 150 minutes (median)</bullet>
+    <bullet>Age 65.4 years (mean)</bullet>
+    <bullet>Mean blood pressure 78.1 mmHg (mean)</bullet>
+    <bullet>APACHE II score: 18.4</bullet>
+    <bullet>Lactate 6.9 mmol/L (mean)</bullet>
+  </patients>
+  <intervention>Early goal-directed therapy
+    <bullet>Antibiotic administration: median time from arrival in ED was 115 (IQR: 66-170)</bullet>
+    <bullet>Fluid replacement: 4300 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 200% (within 6 hours)</bullet>
+  </intervention>
+  <comparison>Lactate clearance (measured hourly) and central venous pressure monitoring
+    <bullet>Antibiotic administration: median time from arrival in ED was 115 (IQR: 62-180)</bullet>
+    <bullet>Fluid replacement: 4500 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 100% (within 6 hours)</bullet>
+  </comparison>
+  <outcome>
+    <bullet type="primary">Mortality in hospital</bullet>
   </outcome>
 </study>
 <!-- Leave this bottom line -->
