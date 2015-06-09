@@ -1,7 +1,7 @@
 ,Year,PMID,Current,"Cai, 2015","Rusconi, 2015","Trialists (Angus), 2015 ('Primary objective' analysis)","Zhang, 2015 ('EGDT vs usual care' analysis)","Gu, 2014 ('early EGDT' analysis)"
 Tuchschmidt,1992,1623756,No. Does not include ScvO2 target,,,,,Yes
 Rivers,2001,11794169,Yes,Yes,Yes,Yes,Yes,Yes
-Lin,2006,17117128,No. Does not include ScvO2 target,,,,,Yes
+Lin,2006,17117128,No. Does not include ScvO2 target,Yes,,,,Yes
 Chen,2007,18159013,Yes (sepsis subgroup),Yes (all patients),,,,Yes (sepsis subgroup)
 Wang,2006,17092415,No. Goals not targeted early,Yes,Yes,,Yes,Not in early analysis
 He,2007,17207356,No. Not randomized,,,,,Yes
