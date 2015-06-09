@@ -1,5 +1,6 @@
 Study,Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
 Rivers,            2001,11794169,  38, 130,  59, 133, '>40% mortality in control group',
+Chen,              2007,18159013,  20,  58,  34,  65, '>40% mortality in control group',
 EGDT Collaborative,2010,20594464,  55, 157,  74, 146, '>40% mortality in control group',
 ProCESS,           2014,24635773,  92, 439,  86, 456, '<30% mortality in control group',
 ARISE,             2014,25272316, 115, 793, 125, 798, '<30% mortality in control group',
