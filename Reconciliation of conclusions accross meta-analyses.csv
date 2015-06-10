@@ -1,11 +1,9 @@
 ,Current,"Cai, 2015","Rusconi, 2015","Trialists (Angus), 2015","Zhang, 2015","Gu, 2014",
-EGDT vs usual care,Benefit depends on control group mortality,Short-term benefit only (1),No benefit,No benefit,No benefit,Beneficial if EGDT goals targeted for less than 6 hours (2),
-Heterogeneity, 0% (95% CI: 0% to 85%) (3), Moderate, Substantial, Substantial, Substantial,Moderate,
+EGDT vs usual care,Benefit depends on control group mortality,Short-term benefit only (1),No benefit,No benefit,No benefit,Beneficial if EGDT goals targeted for less than 6 hours,
+Heterogeneity, 0% (95% CI: 0% to 85%), Moderate, Substantial, Substantial, Substantial,Moderate,
 ,, , , , , , 
 EGDT vs lactate/CVP,, Trend towards harm, , , EGDT harmful,, 
 Heterogeneity,, 0% (95% CI: 0% to 55%), , , None,, 
 ,, , , , , , 
 Notes,, , , , , , 
-,, , , , , , 1) Analysis compromised by pooling non-independent observations as a trial may be in a forest plot more than once if its outcomes were measured at more than one point in time.
-,, , , , , , 2) Did not include ARISE and ProMISe which had not been published.
-,, , , , , , 3) No residual heterogeneity after meta-regression with control rate mortality.
+1) Analysis compromised by pooling non-independent observations.,, , , , , , 
