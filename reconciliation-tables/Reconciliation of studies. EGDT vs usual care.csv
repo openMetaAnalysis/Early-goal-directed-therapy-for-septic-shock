@@ -1,12 +1,12 @@
-,Year,PMID,Current,"Cai, 2015","Rusconi, 2015","Trialists (Angus), 2015 ('Primary objective' analysis)","Zhang, 2015 ('EGDT vs usual care' analysis)","Gu, 2014 ('early EGDT' analysis)"
-Tuchschmidt,1992,1623756,No. Does not include ScvO2 target,,,,,Yes
-Rivers,2001,11794169,Yes,Yes,Yes,Yes,Yes,Yes
-Lin,2006,17117128,No. Does not include ScvO2 target,Yes,,,,Yes
-Chen,2007,18159013,Yes (sepsis subgroup),Yes (all patients),,,,Yes (sepsis subgroup)
-Wang,2006,17092415,No. Goals not targeted early,Yes,Yes,"No, but included in 'Secondary objective' analysis due to origin of patients not clearly emergency department",Yes,Not in early analysis
-He,2007,17207356,No. Not randomized,,,,,Yes
-EGDT Collaborative,2010,20594464,Yes,Yes,,"No, but included in 'Secondary objective' analysis due to origin of patients not clearly emergency department",Yes (labeled as 'Jing'),Yes (labeled as 'Yan')
-ProCESS,2014,24635773,Yes,Yes,Yes. Labeled as 'Yealy',Yes,Yes,Yes
-ARISE,2014,25272316,Yes,Yes,Yes. Labeled as 'Peake',Yes,Yes,
-Andrews,2014,25072757,No. Does not include ScvO2 target,,,,,
-ProMISe,2015,25776532,Yes,Yes,Yes. Labeled as 'Mouncey',Yes,,
+,Year,PMID,Current,"Chelkeba, 2015","Cai, 2015","Rusconi, 2015","Trialists (Angus), 2015 ('Primary objective' analysis)","Zhang, 2015 ('EGDT vs usual care' analysis)","Gu, 2014 ('early EGDT' analysis)"
+Tuchschmidt,1992,1623756,No. Does not include ScvO2 target,,,,,,Yes
+Rivers,2001,11794169,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Lin,2006,17117128,No. Does not include ScvO2 target,Yes,Yes,,,,Yes
+Chen,2007,18159013,Yes (sepsis subgroup),,Yes (all patients),,,,Yes (sepsis subgroup)
+Wang,2006,17092415,No. Goals not targeted early,,Yes,Yes,"No, but included in 'Secondary objective' analysis due to origin of patients not clearly emergency department",Yes,"Yes, but not in early analysis"
+He,2007,17207356,No. Not randomized,Yes,,,,,Yes
+EGDT Collaborative,2010,20594464,Yes,Yes (labeled as 'Yan'),Yes,,"No, but included in 'Secondary objective' analysis due to origin of patients not clearly emergency department",Yes (labeled as 'Jing'),Yes (labeled as 'Yan')
+ProCESS,2014,24635773,Yes,Yes,Yes,Yes. Labeled as 'Yealy',Yes,Yes,Yes
+ARISE,2014,25272316,Yes,Yes,Yes,Yes. Labeled as 'Peake',Yes,Yes,
+Andrews,2014,25072757,No. Does not include ScvO2 target,Yes,,,,,
+ProMISe,2015,25776532,Yes,Yes,Yes,Yes. Labeled as 'Mouncey',Yes,,
