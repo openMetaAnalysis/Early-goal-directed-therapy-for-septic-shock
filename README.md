@@ -1,3 +1,6 @@
+Early goal-directed therapy for septic shock
+=================================
+
 **If you want to read this meta-analysis:**
 
 * Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
@@ -28,3 +31,7 @@ Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac]
 * '[Fork](../../fork)' this repository
 * Make your edits
 * Initiate a '[Pull request](../../compare/)' for your changes to be merged.
+
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
