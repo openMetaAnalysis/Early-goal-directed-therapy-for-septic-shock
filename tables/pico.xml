@@ -242,5 +242,31 @@
     <bullet type="primary">Mortality at 28 days</bullet>
   </outcome>
 </study>
+<!-- start of a new study -->
+<study>
+  <citation year="2014" pmid="24649525" nct="" journal_abbrev="Zhonghua Wei Zhong Bing Ji Jiu Yi Xue" totalsubjects="50" >Wang</citation>
+  <design>Randomized controlled trial</design>
+  <patients total="50">
+    <description>Septic shock</description>
+    <bullet>Time between hospital arrival and randomization: NA</bullet>
+    <bullet>Age 54 years (mean)</bullet>
+    <bullet>Systolic blood pressure NA</bullet>
+    <bullet>APACHE II score: 20</bullet>
+    <bullet>Lactate NA</bullet>
+  </patients>
+  <intervention>Early goal-directed therapy
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: 100%</bullet>
+  </intervention>
+  <comparison>**Lactate clearance**
+    <bullet>Antibiotic administration: NA</bullet>
+    <bullet>Fluid replacement: NA</bullet>
+    <bullet>Central venous catheterization: pending</bullet>
+  </comparison>
+  <outcome>
+    <bullet type="primary">Pending</bullet>
+  </outcome>
+</study>
 <!-- Leave this bottom line -->
 </included>
